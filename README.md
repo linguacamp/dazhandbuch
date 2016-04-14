@@ -1,5 +1,5 @@
-# DaF-Handreichung
+# DaZHandbuch
 
-Dies ist das öffentliche Wiki zur Handreichung.
+Dies ist das öffentliche Wiki zur DaF-Handreichung.
 
 Das private Repo ist hier: https://github.com/chrisreuter/daf-handreichung-priv
