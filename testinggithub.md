@@ -1,5 +1,7 @@
 ## Testing GitHub
 
-- Diese Datei wurde von @linguacamp als externem Nutzer erstellt.
+Diese Datei wurde von @linguacamp als externem Nutzer erstellt.
  
    You’re creating a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will create the file in a new branch in your fork, so you can send a pull request.
+
+Nach "Commit" wird automatisch ein "Pull request" erstellt.
